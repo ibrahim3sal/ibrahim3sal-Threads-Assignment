@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fc9f8ca8-a21b-4645-b117-2a8faea8392f",
+    "orderId": 17,
+    "to": "karim.samir@example.com",
+    "subject": "Order #17 Confirmation",
+    "body": "Your order #17 has been completed. Total: 687.30",
+    "sentAt": "2026-10-31T21:56:09.5540753+02:00",
+    "attempts": 4,
+    "lastError": "SMTP server unavailable for Order #17"
+  }
+]

@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+**/Data/
+*.log
+logs/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+TestResults/

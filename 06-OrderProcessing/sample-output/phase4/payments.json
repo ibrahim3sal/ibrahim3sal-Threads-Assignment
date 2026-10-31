@@ -1,0 +1,93 @@
+[
+  {
+    "orderId": 10,
+    "amount": 93.80,
+    "status": "Captured",
+    "transactionId": "TXN-1138A1D1DCED",
+    "createdAt": "2026-10-31T22:13:32.4085308+02:00"
+  },
+  {
+    "orderId": 8,
+    "amount": 960.00,
+    "status": "Declined",
+    "transactionId": null,
+    "createdAt": "2026-10-31T22:13:32.5931932+02:00"
+  },
+  {
+    "orderId": 19,
+    "amount": 76.90,
+    "status": "Captured",
+    "transactionId": "TXN-599F947D177A",
+    "createdAt": "2026-10-31T22:13:32.7379678+02:00"
+  },
+  {
+    "orderId": 17,
+    "amount": 687.30,
+    "status": "Captured",
+    "transactionId": "TXN-2C98180D4073",
+    "createdAt": "2026-10-31T22:13:32.8612175+02:00"
+  },
+  {
+    "orderId": 2,
+    "amount": 767.30,
+    "status": "Captured",
+    "transactionId": "TXN-42F1429BCF5B",
+    "createdAt": "2026-10-31T22:13:32.9547931+02:00"
+  },
+  {
+    "orderId": 13,
+    "amount": 309.20,
+    "status": "Refunded",
+    "transactionId": "TXN-03BA30E9C061",
+    "createdAt": "2026-10-31T22:13:32.9548268+02:00"
+  },
+  {
+    "orderId": 6,
+    "amount": 42.90,
+    "status": "Captured",
+    "transactionId": "TXN-EC6196039040",
+    "createdAt": "2026-10-31T22:13:33.0475969+02:00"
+  },
+  {
+    "orderId": 7,
+    "amount": 218.00,
+    "status": "Captured",
+    "transactionId": "TXN-6BBFD5259A17",
+    "createdAt": "2026-10-31T22:13:34.2780953+02:00"
+  },
+  {
+    "orderId": 1,
+    "amount": 980.00,
+    "status": "Captured",
+    "transactionId": "TXN-919C5511768D",
+    "createdAt": "2026-10-31T22:13:34.2938097+02:00"
+  },
+  {
+    "orderId": 20,
+    "amount": 1012.50,
+    "status": "Captured",
+    "transactionId": "TXN-76713C3ED487",
+    "createdAt": "2026-10-31T22:13:34.435191+02:00"
+  },
+  {
+    "orderId": 14,
+    "amount": 149.45,
+    "status": "Captured",
+    "transactionId": "TXN-C688BD2A6036",
+    "createdAt": "2026-10-31T22:13:34.4663947+02:00"
+  },
+  {
+    "orderId": 3,
+    "amount": 146.70,
+    "status": "Captured",
+    "transactionId": "TXN-B84B33F53003",
+    "createdAt": "2026-10-31T22:13:34.7017707+02:00"
+  },
+  {
+    "orderId": 16,
+    "amount": 413.40,
+    "status": "Captured",
+    "transactionId": "TXN-B62946A00D47",
+    "createdAt": "2026-10-31T22:13:34.8735867+02:00"
+  }
+]
