@@ -1,0 +1,102 @@
+[
+  {
+    "id": "33b2e99c-9051-493c-9b0a-e047e1877255",
+    "orderId": 19,
+    "to": "hassan.tarek@example.com",
+    "subject": "Order #19 Confirmation",
+    "body": "Your order #19 has been completed. Total: 76.90",
+    "sentAt": "2026-10-31T21:56:06.378448+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "7f5dd680-e51d-444d-8ab6-53db1caaed35",
+    "orderId": 2,
+    "to": "sara.mohamed@example.com",
+    "subject": "Order #2 Confirmation",
+    "body": "Your order #2 has been completed. Total: 767.30",
+    "sentAt": "2026-10-31T21:56:06.3927734+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "3d8bbe67-17ad-4b44-a276-bee7e9b87751",
+    "orderId": 11,
+    "to": "ahmed.ali@example.com",
+    "subject": "Order #11 Confirmation",
+    "body": "Your order #11 has been completed. Total: 89.30",
+    "sentAt": "2026-10-31T21:56:07.3315175+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "e43f981d-a44b-432a-9562-24ffc8a29876",
+    "orderId": 6,
+    "to": "nour.khaled@example.com",
+    "subject": "Order #6 Confirmation",
+    "body": "Your order #6 has been completed. Total: 42.90",
+    "sentAt": "2026-10-31T21:56:07.3775073+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "c802829a-9177-4f72-82f7-89ff59cc48fd",
+    "orderId": 20,
+    "to": "dina.fathy@example.com",
+    "subject": "Order #20 Confirmation",
+    "body": "Your order #20 has been completed. Total: 1012.50",
+    "sentAt": "2026-10-31T21:56:07.878123+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "ad08f2e8-e08c-470e-954d-e420e377dfcc",
+    "orderId": 1,
+    "to": "ahmed.ali@example.com",
+    "subject": "Order #1 Confirmation",
+    "body": "Your order #1 has been completed. Total: 980.00",
+    "sentAt": "2026-10-31T21:56:08.4244966+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "bbbaec80-22f5-4bd9-9626-a3dec186bb1f",
+    "orderId": 14,
+    "to": "youssef.adel@example.com",
+    "subject": "Order #14 Confirmation",
+    "body": "Your order #14 has been completed. Total: 149.45",
+    "sentAt": "2026-10-31T21:56:08.6443367+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "0f1818c0-0c44-402b-a374-f9265cd0b3ea",
+    "orderId": 16,
+    "to": "nour.khaled@example.com",
+    "subject": "Order #16 Confirmation",
+    "body": "Your order #16 has been completed. Total: 413.40",
+    "sentAt": "2026-10-31T21:56:08.6939802+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "9221e8e8-fe72-4fd9-86a2-9ae37d7e8c94",
+    "orderId": 7,
+    "to": "karim.samir@example.com",
+    "subject": "Order #7 Confirmation",
+    "body": "Your order #7 has been completed. Total: 218.00",
+    "sentAt": "2026-10-31T21:56:09.2873337+02:00",
+    "attempts": 1,
+    "lastError": null
+  },
+  {
+    "id": "f7d1e79d-9036-4739-ada9-00c4c602ebf8",
+    "orderId": 3,
+    "to": "omar.hassan@example.com",
+    "subject": "Order #3 Confirmation",
+    "body": "Your order #3 has been completed. Total: 146.70",
+    "sentAt": "2026-10-31T21:56:10.241201+02:00",
+    "attempts": 3,
+    "lastError": null
+  }
+]
